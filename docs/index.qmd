@@ -466,30 +466,215 @@ In Many Labs 5, this was testing the claim in the Reproducibility project that t
 - Psych Science - Badges (but are they any use? Aha! Funny that you ask...)
 
 ## The Data Badge Project
+### Origins
 
-## Preprints
+-   It all began with a tweet
+-   Nick Brown called for volunteers to help with a project
+-   All articles in the April 2019 issue of *Psychological Science* earned an "Open Data" badge (the first issue where this was the case)
+-   Could a team of researchers reproduce the published results?
+-   Of course I signed up!
+
+::: footer
+Preprint: [PsyArXiv](https://psyarxiv.com/729qt)
+:::
+## The Data Badge Project
+### Organisation
+
+-   Final team consisted of 12 researchers
+-   Varying levels of experience - Ph.D students & upwards
+-   Each paper allocated to at least 3 reproducers
+-   Communication via Google Groups
+-   First stage - independent reproduction attempts
+-   Uploaded to OSF
+-   Phase 1 reports
+
+::: footer
+All code is here: [OSF](https://osf.io/xzke7/)
+:::
+
+## The Data Badge Project
+### Team
+
+::: nonincremental
+::: columns
+::: {.column width="50%"}
+-   Sohpia Crüwell
+-   Me
+-   Bradley J. Baker
+-   Lincoln Colling
+-   Malte Elson
+-   Sandra J. Geiger
+:::
+
+::: {.column width="50%"}
+-   Sebastian Lobentanzer
+-   Jean Monéger
+-   Alex Patterson
+-   D. Samuel Schwarzkopf
+-   Mirela Zaneva
+-   Nicholas J. L. Brown
+:::
+:::
+:::
+
+## The Data Badge Project
+### My experience
+
+-   I was initially assigned 4 papers to work on
+-   All had data, 2 had code (MATLAB)
+-   Time taken per paper: between 2-3 hours and 2 days
+-   One without code was easy to reproduce (simple analyses)
+-   The other without code had VERY raw data
+-   Took days, could not exactly reproduce results
+-   The two with code were not any easier
+
+::: footer
+All code is here: [OSF](https://osf.io/xzke7/)
+:::
+
+## The Data Badge Project
+### Phase 2 Reports
+
+-   We did not commence this stage until each paper had at least 3 Phase 1 reports
+-   I ended up working on a 5th paper due to drop-outs
+-   We communicated via threads on Google Groups
+-   Sophia Crüwell took over as first author
+-   Collaborated on Google Docs for summary reports
+-   Agreed on ratings for each paper: How reproducible? Exactly/Essentially/Partially/Mostly Not/Not at all
+
+## The Data Badge Project - Results!
+
+### Individual ratings
+
+![](images/Individual_Table.png)
+
+## The Data Badge Project - Results!
+
+### Group ratings
+
+![](images/Group_Table.png)
+
+## The Data Badge Project
+### Conclusions
+
+::: columns
+::: {.column width="50%"}
+- Do badges work? Not on their own
+- Journals offering badges could provide more support for authors
+- Criteria for awarding badges should be clear and explicit (e.g. code, readme, raw data)
+:::
+
+::: {.column width="50%"}
+-   Badge checks
+    -   Authors could provide evidence of independent code checks
+    -   Journals could provide this service (via editorial staff or peer review)
+:::
+
+:::
+
+## The Data Badge Project
+### Publication
+
+-   We submitted to *Psychological Science* in April 2022
+-   To our surprise, not rejected!
+-   Generally positive, constructive peer reviews
+-   After revision, reviewers happy
+-   HOWEVER, editor insisted on several more rounds of changes
+-   Now published in Psych Science!! (Finally!)
+
+::: footer
+Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., Lobentanzer, S., Monéger, J., Patterson, A., Schwarzkopf, D. S., Zaneva, M., & Brown, N. J. L. (2023). What’s in a Badge? A Computational Reproducibility Investigation of the Open Data Badge Policy in One Issue of Psychological Science. Psychological Science, 09567976221140828. [https://doi.org/10.1177/09567976221140828](https://doi.org/10.1177/09567976221140828)
+
+:::
+
+
+## Preprints {.smaller}
+
+- It’s becoming more common to post papers to “preprint servers” before peer review
+- Again, this has been traditional in Physics, Astrophysics and Mathematics for decades ([arXiv](https://arxiv.org/) was founded in 1991). 
+- Now [bioRxiv](https://www.biorxiv.org/), [PsyArXiv](https://psyarxiv.com/), etc. 
+- Advantages: Open access, free, immediate access to research findings
+- Disadvantages: Not peer reviewed, can post anything (including rubbish science)
+- Much of this came to light during COVID. 
+
+## Enter PCI!
+
+- [Peer Community In (PCI)](https://peercommunityin.org/) is a new initiative offering free preprint review & recommendation
+- Currently 16 different "communities" and 1900 recommenders
+- Once reviewed, can publish in [Peer Community Journal](https://peercommunityjournal.org/) (diamond open access) or submit to a [PCI-friendly journal](https://peercommunityin.org/pci-friendly-journals/) as pre-reviewed
+- Could this overtake commercial journals? 
 
 ## Preregistration
 
+- You can now publicly declare your research plan before collecting any data 
+- This would ideally reduce researcher degrees of freedom, p-hacking and publication bias
+- Should increase accountability and credibility
+- Should refocus peer review on the study phase 
+- Some researchers argue it's not necessary (see ["Is Preregistration Worthwhile?"](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30285-2))
+
 ## Registered reports
+
+- Becoming MUCH more common recently (see [here](https://cos.io/rr/) for details & list of journals which accept them)
+- Step 1: Submit Intro, Method only; peer reviewed thoroughly. 
+- Step 2: Collect data and analyse as planned
+- Step 3: Peer review 2 (check everything done as planned)
+- Step 4: Publish! (regardless of results)
+
+## Registered reports
+
+![Infographic from [the CoS](https://cos.io/rr/)](images/RegisteredReports_infographic.png){fig-align="center"}
+
+## Registered reports
+
+![](images/Registered_reports.png)
+
+- Currently >300 journals accept Registered Report formats
+- Registered reports cut publication bias (Allen & Mehler, 2019, [PLoS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246))
+
+## Registered reports cut publication bias
+
+![](images/RegisteredReports_results.png)
 
 ## Reforming peer review
 ### Double-blind peer review
 
+- Already in place at some journals
+- Like a double-blind clinical trial: authors don’t know who they’re reviewing; reviewers don’t know who the authors are
+- Objections: In practice, it will be fairly obvious who the authors are (self-citations, small fields, etc)
+- It may also become obvious who reviewers are (we currently try to guess anyway)
+
 ## Reforming peer review
 ### Open peer review
 
-## Reforming peer review
-### Paying peer reviewers
+- Several models
+- Authors see reviews and reviewers see each others’ reviews; names revealed after publication (Frontiers)
+- Entire process open & reviews published alongside paper (PeerJ)
+- Argument: Junior reviewers will be too intimidated to be honest about senior colleagues’ work?
+
 
 ## Reforming peer review
 ### Post-publication peer review
 
+- Idea: publish everything, let the reviews sort it out afterwards (e.g. PubPeer)
+- Problem: Need chance for revision? 
+- Problem: People won’t participate in review (majority of publications will be unreviewed)
+- Solution: Incremental review process?
+- Solution: Credit for good reviewers
+- Solution: Borrow from social media e.g. Reddit? 
 
 ## What you can do 
 
+- If you’re doing Honours next year, consider preregistering your project at OSF (even for this year it’s not too late)
+- Could we do replications in 3rd year? Lobby!
+- [Some ideas for participation from OSF](https://www.cos.io/communities/scientists-and-researchers)
+- FORRT (Framework for Open and Reproducible Research Training) - [get involved here](https://forrt.org/about/get-involved/)! 
+
+
 ## Collaborative replication for undergraduates (CREP)
 
-## FORRT
+- The Collaborative Replications and Education Project
+- A crowdsourced replication project for undergraduate researchers
+- Can become an author on the final paper if involved enough
+- Project website [here](https://osf.io/wfc6u/)
 
-
+# Questions? Ask on Moodle! {background-color="black" background-image="images/tinyclouds.png"}
