@@ -12,7 +12,14 @@ format:
 editor: source
 ---
 
-# Power, bias and research ethics - how to be a better researcher (Part II)
+# Power, bias and research ethics - how to be a better researcher (Part II){background-color="black" background-image="images/fingal.png"}
+
+
+## Slides are open source
+
+[Link for the HTML version](https://deborahapthorp.github.io/Lecture-3/) of these slides (always up to date)
+
+![](images/qrcode.png){fig-align="center"}
 
 ## Outline
 
