@@ -21,6 +21,10 @@ editor: source
 
 ![](images/qrcode.png){fig-align="center"}
 
+::: notes
+So again, please note that the slides for this are available online if you click on the link or use the QR code. There's also a PDF on moodle if you prefer that. 
+:::
+
 ## Outline
 
 - Cautionary Tales from Psychology research
@@ -30,6 +34,17 @@ editor: source
 - How open should we be? 
 - Preregistration and Registered Reports
 - What you can do! 
+
+::: notes
+So here is an outline of what we're going to talk about today. 
+First, some cautionary tales from the last few years that have become part of the folklore about what triggered the so-called "Reproducbility Crisis" or "Replication Crisis". 
+Then we'll talk about some possible solutions to the crisis. 
+We'll talk about what replicability is, and discuss a few replication projects. 
+Then we'll examine the question of how open we should or can be in our research. 
+I want to talk briefly about preregistration and Registered Reports - you may have heard a little about this already if you came to my talk at the Honours intensive. 
+And lastly I want to suggest things you can do to help! 
+
+:::
 
 # Advice of a famous social psychologist 
 “There are two possible articles you can write: (1) the article you planned to write when you designed your study or (2) the article that makes the most sense now that you have seen the results. They are rarely the same, and the correct answer is (2).” 
@@ -68,6 +83,11 @@ The astonishing claim made by Bem – apparently supported by his experimental d
 - Pre-registered 
 - Failed to replicate any of the effects
 
+::: notes
+
+So what happened next? 
+:::
+
 
 ##  A cautionary tale I: Daryl Bem
 
@@ -77,6 +97,11 @@ The astonishing claim made by Bem – apparently supported by his experimental d
 - Reviewed at British Journal of Psychology - rejected (Bem was a reviewer)
 - Finally published in PLoS One ([“Failing the Future”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033423)) (open access - cited 118 times)
 
+::: notes
+
+So note that the original has been cited over 600 times - from the previous slide. But are these all uncritical citations?
+:::
+
 ## Side note - citations?
 ### …do they support, mention or contradict?
 
@@ -85,6 +110,10 @@ The astonishing claim made by Bem – apparently supported by his experimental d
 - Most studies “mention” Bem rather than supporting 
 - Of the 5 “supporting” citations, 3 are by Bem himself and the other 2 don’t actually support it
 
+::: notes
+
+:::
+
 ## A cautionary tale II: Diderick Stapel
 
 - Diderick Stapel - famous Dutch social psychologist
@@ -92,6 +121,10 @@ The astonishing claim made by Bem – apparently supported by his experimental d
 - 130 articles, 24 book chapters
 - Key findings: Messy environments promote stereotyping; meat eaters “more selfish” than vegetarians
 - Students never saw raw data; results “too good to be true”?
+
+::: notes
+
+:::
 
 ## A cautionary tale II: Diderick Stapel
 
@@ -115,12 +148,22 @@ The astonishing claim made by Bem – apparently supported by his experimental d
 [http://retractionwatch.com/category/diederik-stapel/](http://retractionwatch.com/category/diederik-stapel/)
 
 :::
+
+::: notes
+
+:::
+
+
 # Quote 
 
 "Outright fraud is somewhat impossible to estimate, because if you're really good at it you wouldn't be detectable," said Simonsohn, a social psychologist. "It's like asking how much of our money is fake money – we only catch the really bad fakers, **the good fakers we never catch**."
 
 ::: footer
 [http://www.theguardian.com/science/2012/sep/13/scientific-research-fraud-bad-practice](http://www.theguardian.com/science/2012/sep/13/scientific-research-fraud-bad-practice)
+:::
+
+::: notes
+
 :::
 
 ## A cautionary tale III - John Bargh
@@ -173,6 +216,10 @@ As stated before, Bargh also directs personal attacks at the authors of the pape
 [Article by Neuroskeptic](https://journals.sagepub.com/doi/10.1177/1745691612459519)
 :::
 
+::: notes
+
+:::
+
 ## Neuroskeptic, 2012 
 
 ::: columns
@@ -222,6 +269,10 @@ Podcast about this paper [here!](https://soundcloud.com/reproducibilitea/episode
 
 :::
 
+::: notes
+
+:::
+
 # Prevalence of QRPs in Psychology
 
 ## Bayesian truth serum??
@@ -232,9 +283,17 @@ Podcast about this paper [here!](https://soundcloud.com/reproducibilitea/episode
 - The use of BTS increased % who admitted to QRPs, particularly those they judged less defensible
 - Overall percentage very high!! 
 
+::: notes
+
+:::
+
 ## {}
 
 ![](images/qrp_prevalence.png){.fragment}
+
+::: notes
+
+:::
 
 ## Why are we here? 
 
@@ -242,6 +301,10 @@ Podcast about this paper [here!](https://soundcloud.com/reproducibilitea/episode
 - **Systematic replications** are a tool of scientific progress:
   - How reliable is the data published in journals?
   - What practices would lead to a higher level of replicability?
+  
+::: notes
+
+:::
 
 ## The Reproducibility Project (RP)
 
@@ -256,6 +319,10 @@ Podcast about this paper [here!](https://soundcloud.com/reproducibilitea/episode
 :::{.column width="40%"}
 ![](images/cos.png){.fragment}
 :::
+:::
+
+::: notes
+
 :::
 
 ## Estimating the reproducibility of psychological science
@@ -279,6 +346,10 @@ Podcast about this paper [here!](https://soundcloud.com/reproducibilitea/episode
 
 ::: footer 
 [OPEN SCIENCE COLLABORATION. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716.](https://doi.org/10.1126/science.aac4716)
+
+:::
+
+::: notes
 
 :::
 
@@ -312,6 +383,10 @@ Studies in the field of cognitive psychology had a higher replication rate (50%)
 
 :::
 
+::: notes
+
+:::
+
 ## Effect sizes and p-values
 
 ::: columns 
@@ -329,8 +404,10 @@ Studies in the field of cognitive psychology had a higher replication rate (50%)
 
 ::: notes
 
-Diagonal line represents replication effect size equal to original effect size. Dotted line represents replication effect size of 0. Points below the dotted line were effects in the opposite direction of the original. Density plots are separated by significant (blue) and nonsignificant (red) effects. 
-Overall, original study effect sizes (M = 0.403, SD = 0.188) were reliably larger than replication effect sizes (M = 0.197, SD = 0.257), Wilcoxon’s W = 7137, P < 0.001. 
+So the diagonal line represents where the replication effect size would be equal to original effect size. The dotted line represents a replication effect size of 0. Points below the dotted line show effects in the opposite direction of the original. And the density plots are separated by significant (green) and nonsignificant (red) effects. 
+
+Overall, the original study effect sizes (M = 0.403, SD = 0.188) were reliably larger than replication effect sizes (M = 0.197, SD = 0.257), Wilcoxon’s W = 7137, P < 0.001.
+
 Comparing effect sizes across indicators, surprisingness of the original effect, and the challenge of conducting the replication were related to replication success for some indicators. Surprising effects were less reproducible, as were effects for which it was more challenging to conduct the replication.
 
 :::
@@ -356,12 +433,20 @@ Comparing effect sizes across indicators, surprisingness of the original effect,
 
 :::
 
+::: notes
+
+:::
+
 ## Investigating variability in replicability: Many Labs project
 
 - One possible way of making psychology studies more robust is to distribute them across multiple labs
 - This was the genesis of the first Many Labs project - now known as [Many Labs 1](https://psycnet.apa.org/fulltext/2014-20922-002.html) ([OSF site here](https://osf.io/wx7ck/))
 - Also offered the opportunity to look at variations across sample and setting 
 - Now followed up by Many Labs [2](https://journals.sagepub.com/doi/10.1177/2515245918810225), [3](https://www.sciencedirect.com/science/article/abs/pii/S0022103115300123?via%3Dihub) and [4](https://online.ucpress.edu/collabra/article/8/1/35271/168050/Many-Labs-4-Failure-to-Replicate-Mortality) ([5](https://journals.sagepub.com/doi/full/10.1177/2515245920958687), [Many Babies](https://manybabies.github.io/) 1--6, [#EEGMany Labs](https://www.sciencedirect.com/science/article/pii/S0010945221001106?via%3Dihub), and [Many Dogs](https://manydogsproject.github.io/) (those are the ones I know of!)
+
+::: notes
+
+:::
 
 ## Many Labs 1 - findings {.smaller}
 
@@ -379,6 +464,10 @@ Comparing effect sizes across indicators, surprisingness of the original effect,
 :::
 :::
 
+::: notes
+
+:::
+
 ## Many Labs 2 {.smaller}
 ### Investigating replicability across sample and setting
 
@@ -389,10 +478,17 @@ Comparing effect sizes across indicators, surprisingness of the original effect,
 - Effect size less than half of original, on average
 - Little evidence that replication depended on sample
 
+::: notes
+
+:::
 
 ## {background-color="white"}
 
 ![](images/manylabs2.png){.absolute top=0 right=180 width="750"}
+
+::: notes
+
+:::
 
 ## Prediction markets
 
@@ -431,6 +527,10 @@ In Many Labs 5, this was testing the claim in the Reproducibility project that t
 - New studies and replications; democratically selected
 - Podcast [here](https://everythinghertz.com/78) (note - I get a mention at the start!)
 
+::: notes
+
+:::
+
 ## Other initiatives to solve the "reproducibility crisis"
 
 ::: columns 
@@ -454,6 +554,10 @@ In Many Labs 5, this was testing the claim in the Reproducibility project that t
 :::
 :::
 
+::: notes
+
+:::
+
 
 ## Open access publishing{.smaller}
 ### Issues
@@ -464,6 +568,10 @@ In Many Labs 5, this was testing the claim in the Reproducibility project that t
 - Costs can be claimed on grants - but not everyone has a grant
 - Proliferation of “predatory” open access journals
 
+::: notes
+
+:::
+
 ## Open data
 
 - In some fields, this has been the norm for decades (astronomy, climate science)
@@ -471,6 +579,10 @@ In Many Labs 5, this was testing the claim in the Reproducibility project that t
 - Recently, some journals have introduced policies that authors must share their data
 - PLoS - introduced policy in 2014, but not always adhered to
 - Psych Science - Badges (but are they any use? Aha! Funny that you ask...)
+
+::: notes
+
+:::
 
 ## The Data Badge Project
 ### Origins
@@ -484,6 +596,11 @@ In Many Labs 5, this was testing the claim in the Reproducibility project that t
 ::: footer
 Preprint: [PsyArXiv](https://psyarxiv.com/729qt)
 :::
+
+::: notes
+
+:::
+
 ## The Data Badge Project
 ### Organisation
 
@@ -497,6 +614,10 @@ Preprint: [PsyArXiv](https://psyarxiv.com/729qt)
 
 ::: footer
 All code is here: [OSF](https://osf.io/xzke7/)
+:::
+
+::: notes
+
 :::
 
 ## The Data Badge Project
@@ -524,6 +645,10 @@ All code is here: [OSF](https://osf.io/xzke7/)
 :::
 :::
 
+::: notes
+
+:::
+
 ## The Data Badge Project
 ### My experience
 
@@ -539,6 +664,10 @@ All code is here: [OSF](https://osf.io/xzke7/)
 All code is here: [OSF](https://osf.io/xzke7/)
 :::
 
+::: notes
+
+:::
+
 ## The Data Badge Project
 ### Phase 2 Reports
 
@@ -549,17 +678,29 @@ All code is here: [OSF](https://osf.io/xzke7/)
 -   Collaborated on Google Docs for summary reports
 -   Agreed on ratings for each paper: How reproducible? Exactly/Essentially/Partially/Mostly Not/Not at all
 
+::: notes
+
+:::
+
 ## The Data Badge Project - Results!
 
 ### Individual ratings
 
 ![](images/Individual_Table.png)
 
+::: notes
+
+:::
+
 ## The Data Badge Project - Results!
 
 ### Group ratings
 
 ![](images/Group_Table.png)
+
+::: notes
+
+:::
 
 ## The Data Badge Project
 ### Conclusions
@@ -579,6 +720,10 @@ All code is here: [OSF](https://osf.io/xzke7/)
 
 :::
 
+::: notes
+
+:::
+
 ## The Data Badge Project
 ### Publication
 
@@ -594,6 +739,10 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 
 :::
 
+::: notes
+
+:::
+
 
 ## Preprints {.smaller}
 
@@ -604,12 +753,20 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Disadvantages: Not peer reviewed, can post anything (including rubbish science)
 - Much of this came to light during COVID. 
 
+::: notes
+
+:::
+
 ## Enter PCI!
 
 - [Peer Community In (PCI)](https://peercommunityin.org/) is a new initiative offering free preprint review & recommendation
 - Currently 16 different "communities" and 1900 recommenders
 - Once reviewed, can publish in [Peer Community Journal](https://peercommunityjournal.org/) (diamond open access) or submit to a [PCI-friendly journal](https://peercommunityin.org/pci-friendly-journals/) as pre-reviewed
 - Could this overtake commercial journals? 
+
+::: notes
+
+:::
 
 ## Preregistration
 
@@ -619,6 +776,10 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Should refocus peer review on the study phase 
 - Some researchers argue it's not necessary (see ["Is Preregistration Worthwhile?"](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30285-2))
 
+::: notes
+
+:::
+
 ## Registered reports
 
 - Becoming MUCH more common recently (see [here](https://cos.io/rr/) for details & list of journals which accept them)
@@ -627,9 +788,17 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Step 3: Peer review 2 (check everything done as planned)
 - Step 4: Publish! (regardless of results)
 
+::: notes
+
+:::
+
 ## Registered reports
 
 ![Infographic from [the CoS](https://cos.io/rr/)](images/RegisteredReports_infographic.png){fig-align="center"}
+
+::: notes
+
+:::
 
 ## Registered reports
 
@@ -638,9 +807,17 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Currently >300 journals accept Registered Report formats
 - Registered reports cut publication bias (Allen & Mehler, 2019, [PLoS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246))
 
+::: notes
+
+:::
+
 ## Registered reports cut publication bias
 
 ![](images/RegisteredReports_results.png)
+
+::: notes
+
+:::
 
 ## Reforming peer review
 ### Double-blind peer review
@@ -650,6 +827,10 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Objections: In practice, it will be fairly obvious who the authors are (self-citations, small fields, etc)
 - It may also become obvious who reviewers are (we currently try to guess anyway)
 
+::: notes
+
+:::
+
 ## Reforming peer review
 ### Open peer review
 
@@ -657,6 +838,10 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Authors see reviews and reviewers see each others’ reviews; names revealed after publication (Frontiers)
 - Entire process open & reviews published alongside paper (PeerJ)
 - Argument: Junior reviewers will be too intimidated to be honest about senior colleagues’ work?
+
+::: notes
+
+:::
 
 
 ## Reforming peer review
@@ -669,12 +854,20 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Solution: Credit for good reviewers
 - Solution: Borrow from social media e.g. Reddit? 
 
+::: notes
+
+:::
+
 ## What you can do 
 
 - If you’re doing Honours next year, consider preregistering your project at OSF (even for this year it’s not too late)
 - Could we do replications in 3rd year? Lobby!
 - [Some ideas for participation from OSF](https://www.cos.io/communities/scientists-and-researchers)
 - FORRT (Framework for Open and Reproducible Research Training) - [get involved here](https://forrt.org/about/get-involved/)! 
+
+::: notes
+
+:::
 
 
 ## Collaborative replication for undergraduates (CREP)
@@ -683,5 +876,9 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - A crowdsourced replication project for undergraduate researchers
 - Can become an author on the final paper if involved enough
 - Project website [here](https://osf.io/wfc6u/)
+
+::: notes
+
+:::
 
 # Questions? Ask on Moodle! {background-color="black" background-image="images/tinyclouds.png"}
