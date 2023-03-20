@@ -112,6 +112,9 @@ So note that the original has been cited over 600 times - from the previous slid
 
 ::: notes
 
+Just as a side note, there's a newish platform called Scite that, unlike ChatGPT, is actually useful for looking at scientific papers! 
+On this platform you can have a look at whether statements around citations of a paper support it, mention it, or contradict the original paper. 
+If you have a look at the citations on scite, most of them are actually just mentioning or contradicting Bem (for instance, using it as an example of QRPs)
 :::
 
 ## A cautionary tale II: Diderick Stapel
@@ -123,6 +126,9 @@ So note that the original has been cited over 600 times - from the previous slid
 - Students never saw raw data; results “too good to be true”?
 
 ::: notes
+So here's another cautionary tale for you about a famous social psychologist called Diderick Stapel. 
+He published lots of eye-catching papers with seemingly "common-sense" results. 
+But the students never saw the raw data - he kept that very close to his chest and was very particular about it. 
 
 :::
 
@@ -151,6 +157,10 @@ So note that the original has been cited over 600 times - from the previous slid
 
 ::: notes
 
+Stapel's book was called "Ontsporing" in Dutch, which means "Derailment". 
+It was originally published in Dutch, but Nick Brown has translated it and offers it for free at this link. 
+In it, Stapel goes into some detail about what led him to fake data, which is pretty unusual - you don't get to hear this from most people who do it. 
+Some of it seems to have been a desire to show things as they "ought to be" - neat rather than messy, showing things that should be obviously true. 
 :::
 
 
@@ -164,6 +174,7 @@ So note that the original has been cited over 600 times - from the previous slid
 
 ::: notes
 
+So this is a slightly chilling quote, I think, from an an article that's published here. We don't really know how much fraud is out there, but it's probably more than we'd like. 
 :::
 
 ## A cautionary tale III - John Bargh
@@ -196,7 +207,8 @@ To test that idea, Doyen repeated his experiment with 50 fresh volunteers and 10
 - Ed Yong’s (2012) piece about this is [here](https://www.nationalgeographic.com/science/article/failed-replication-bargh-psychology-study-doyen) (OSF version [here](https://osf.io/esgdh)).
 
 ::: notes
-As stated before, Bargh also directs personal attacks at the authors of the paper (“incompetent or ill-informed”), at PLoS (“does not receive the usual high scientific journal standards of peer-review scrutiny”), and at me [Ed Yong] (“superficial online science journalism”). The entire post is entitled “Nothing in their heads”.
+So Bargh retaliated by publishing this piece in Psychology today, entitled "Nothing in Their Heads". 
+In it, he directs personal attacks at the authors of the paper, calling them “incompetent or ill-informed”, and at the journal PLoS, saying that it “does not receive the usual high scientific journal standards of peer-review scrutiny”, and also at the journalist Ed Yong who wrote the piece about it, calling it “superficial online science journalism”. 
 
 :::
 
@@ -218,6 +230,7 @@ As stated before, Bargh also directs personal attacks at the authors of the pape
 
 ::: notes
 
+This is from a brief and quite humorous article by the anonymous blogger Neuroskeptic - I encourage you to read it. The article gives a suggested taxonomy of Questionable Research Practices, or QRPs, which is a useful starting point for talking about what they are. I'll go over each in a bit more detail. 
 :::
 
 ## Neuroskeptic, 2012 
@@ -271,6 +284,9 @@ Podcast about this paper [here!](https://soundcloud.com/reproducibilitea/episode
 
 ::: notes
 
+So, how common actually are QRPs? These authors decided to try to find out by asking researchers directly. They used some incentives for truth-telling, which we're going to find out a bit more about in a minute. 
+
+There's a great podcast about this paper here which you can have a listen to if you're interested. 
 :::
 
 # Prevalence of QRPs in Psychology
@@ -284,15 +300,29 @@ Podcast about this paper [here!](https://soundcloud.com/reproducibilitea/episode
 - Overall percentage very high!! 
 
 ::: notes
+So, for what they called "Bayesian Truth Serum", they told half the subjects they'd determine how truthful their responses were using an algorithm, which would determine the value of a donation to their charity of choice. 
+This was actually true! Also, it increased the percentage of those who admitted to QRPs. Specually those they thought were worse. 
+What's interesting here, though, is that the overall percentage is very high! 
+:::
 
+::: footer
+John, L. K., Loewenstein, G., & Prelec, D. (2012). Measuring the prevalence of questionable research practices with incentives for truth telling.
+
+Psychological Science, 23(5), 524–532. [https://doi.org/10.1177/0956797611430953](https://doi.org/10.1177/0956797611430953)
 :::
 
 ## {}
 
-![](images/qrp_prevalence.png){.fragment}
+![](images/qrp_prevalence.png)
 
 ::: notes
+And here you can see Figure 1 from the paper. In black is the self-admitted amount, in white is how prevalent the respondents THOUGHT the practice was, and in grey is the prevalence estimate that was determined from the admission estimates (the percentages are the geometric mean of each of the three bars). So you can see that they were still pretty prevalent back on 2012. Have things changed for the better? You'd certainly hope so. 
+:::
 
+::: footer
+John, L. K., Loewenstein, G., & Prelec, D. (2012). Measuring the prevalence of questionable research practices with incentives for truth telling.
+
+Psychological Science, 23(5), 524–532. [https://doi.org/10.1177/0956797611430953](https://doi.org/10.1177/0956797611430953)
 :::
 
 ## Why are we here? 
