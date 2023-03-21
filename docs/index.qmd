@@ -76,6 +76,10 @@ Bem used a variety of techniques but the general approach was to "time reverse" 
 The astonishing claim made by Bem – apparently supported by his experimental data – was that memory for words is improved even if the rehearsal does not take place until after recall has been tested. The effect was dubbed the "retroactive facilitation of recall".
 :::
 
+## {background-color="black"}
+
+![](https://c.tenor.com/E6h3VR8y24kAAAAC/dumpster-fire-disaster.gif)
+
 ##  A cautionary tale I: Daryl Bem
 
 - Encouraged others to replicate - even provided software
