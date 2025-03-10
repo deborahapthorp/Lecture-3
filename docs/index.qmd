@@ -56,7 +56,7 @@ And lastly I want to suggest things you can do to help!
 ::: columns
 :::{.column width="70%"}
 
-- Daryl Bem, 2011, Journal of Personality & Social Psychology (not open access - cited 631 times)
+- Daryl Bem, 2011, Journal of Personality & Social Psychology (not open access - cited 822 times)
 - Respected researcher, top-tier journal
 - Published 9 experiments which claimed to show effects of precognition
 - Took established psychological experiments & time-reversed them
@@ -67,6 +67,8 @@ And lastly I want to suggest things you can do to help!
 ![](images/bem.png)
 :::
 :::
+
+
 :::
 
 
@@ -80,6 +82,11 @@ The astonishing claim made by Bem – apparently supported by his experimental d
 
 ![](https://c.tenor.com/E6h3VR8y24kAAAAC/dumpster-fire-disaster.gif)
 
+::: footer
+Bem, D. J. (2011). Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect. 
+
+Journal of Personality and Social Psychology, 100(3), 407–425. [https://doi.org/10.1037/a0021524](https://doi.org/10.1037/a0021524)
+:::
 ##  A cautionary tale I: Daryl Bem
 
 - Encouraged others to replicate - even provided software
@@ -99,11 +106,11 @@ So what happened next?
 - Rejected without review - “we do not publish replications”
 - Also rejected without review by Science Brevia & Psychological Science
 - Reviewed at British Journal of Psychology - rejected (Bem was a reviewer)
-- Finally published in PLoS One ([“Failing the Future”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033423)) (open access - cited 118 times)
+- Finally published in PLoS One ([“Failing the Future”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033423)) (open access - cited 152 times)
 
 ::: notes
 
-So note that the original has been cited over 600 times - from the previous slide. But are these all uncritical citations?
+So note that the original has been cited over 800 times - from the previous slide. But are these all uncritical citations?
 :::
 
 ## Side note - citations?
@@ -119,6 +126,8 @@ So note that the original has been cited over 600 times - from the previous slid
 Just as a side note, there's a newish platform called Scite that, unlike ChatGPT, is actually useful for looking at scientific papers! 
 On this platform you can have a look at whether statements around citations of a paper support it, mention it, or contradict the original paper. 
 If you have a look at the citations on scite, most of them are actually just mentioning or contradicting Bem (for instance, using it as an example of QRPs)
+
+NOTE TO SELF: scite is no longer free - should I still recommend it? 
 :::
 
 ## A cautionary tale II: Diderick Stapel
@@ -328,6 +337,33 @@ John, L. K., Loewenstein, G., & Prelec, D. (2012). Measuring the prevalence of q
 
 Psychological Science, 23(5), 524–532. [https://doi.org/10.1177/0956797611430953](https://doi.org/10.1177/0956797611430953)
 :::
+
+## Update: 2024 QRP study
+
+- That study was published in 2012. Surely things have improved by now? 
+
+- A more recent paper (Schneider et al., 2024) examined QRPs across "3,402 researchers in Denmark and 1,307 inthe UK, USA, Croatia and Austria"
+
+- Estimates for individual self-reported use of 25 QRPs ranged from 10 to 64% (Danish sample - 11 to 65 in international sample)
+
+- Most common: Selective over-citing of own publications (64-65%)
+
+- Least common: Plagiarising other researchers' unpublished ideas (10 -11%)
+
+::: footer
+
+Schneider, J. W., Allum, N., Andersen, J. P., Petersen, M. B., Madsen, E. B., Mejlgaard, N., & Zachariae, R. (2024). 
+
+Is something rotten in the state of Denmark? Cross-national evidence for widespread involvement but not systematic use of questionable research practices 
+
+across all fields of research. PLOS ONE, 19(8), e0304342. [https://doi.org/10.1371/journal.pone.0304342](https://doi.org/10.1371/journal.pone.0304342)
+
+:::
+
+## Schneider et al. 2024 - Figure 2
+
+![](images/Denmark_fig2.png)
+
 
 ## Why are we here? 
 
@@ -766,7 +802,7 @@ All code is here: [OSF](https://osf.io/xzke7/)
 -   Generally positive, constructive peer reviews
 -   After revision, reviewers happy
 -   HOWEVER, editor insisted on several more rounds of changes
--   Now published in Psych Science!! (Finally!)
+-   Now published in Psych Science!! (Cited 48 times already!)
 
 ::: footer
 Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., Lobentanzer, S., Monéger, J., Patterson, A., Schwarzkopf, D. S., Zaneva, M., & Brown, N. J. L. (2023). What’s in a Badge? A Computational Reproducibility Investigation of the Open Data Badge Policy in One Issue of Psychological Science. Psychological Science, 09567976221140828. [https://doi.org/10.1177/09567976221140828](https://doi.org/10.1177/09567976221140828)
@@ -794,7 +830,7 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 ## Enter PCI!
 
 - [Peer Community In (PCI)](https://peercommunityin.org/) is a new initiative offering free preprint review & recommendation
-- Currently 16 different "communities" and 1900 recommenders
+- Currently 19 different "communities" and 2000 recommenders
 - Once reviewed, can publish in [Peer Community Journal](https://peercommunityjournal.org/) (diamond open access) or submit to a [PCI-friendly journal](https://peercommunityin.org/pci-friendly-journals/) as pre-reviewed
 - Could this overtake commercial journals? 
 
@@ -915,4 +951,4 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 
 :::
 
-# Questions? Ask on Moodle! {background-color="black" background-image="images/tinyclouds.png"}
+# Questions? Ask on MyLearn! {background-color="black" background-image="images/tinyclouds.png"}
