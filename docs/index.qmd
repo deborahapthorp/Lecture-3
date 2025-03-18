@@ -977,6 +977,7 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 
 - If you’re doing Honours next year, consider preregistering your project at OSF (even for this year it’s not too late)
 - Could we do replications in 3rd year? Or even in Honours? Lobby!
+- APAC Accreditation Public Consultation is currently open [here](https://apac.au/news/accreditation-standards-review-2025/)
 - [Some ideas for participation from OSF](https://www.cos.io/communities/scientists-and-researchers)
 - FORRT (Framework for Open and Reproducible Research Training) - [get involved here](https://forrt.org/about/get-involved/)! 
 
