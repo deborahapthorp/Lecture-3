@@ -4,6 +4,8 @@ author: "A/Prof Deborah Apthorp"
 format: 
   revealjs: 
     theme: sky
+    width: 1440
+    height: 900
     incremental: true
     preview-links: auto
     slide-number: true
@@ -22,7 +24,7 @@ editor: source
 ![](images/qrcode.png){fig-align="center"}
 
 ::: notes
-So again, please note that the slides for this are available online if you click on the link or use the QR code. There's also a PDF on moodle if you prefer that. 
+So again, please note that the slides for this are available online if you click on the link or use the QR code. There's also a PDF on mylearn if you prefer that. 
 :::
 
 ## Outline
@@ -60,6 +62,7 @@ And lastly I want to suggest things you can do to help!
 - Respected researcher, top-tier journal
 - Published 9 experiments which claimed to show effects of precognition
 - Took established psychological experiments & time-reversed them
+- Showed evidence of precognition in undergraduate students! 
 
 :::
 :::{.column width="30%"}
@@ -93,6 +96,12 @@ Journal of Personality and Social Psychology, 100(3), 407–425. [https://doi.or
 - Researchers from 3 institutions (Stuart Ritchie, Chris French, and Richard Wiseman) [decided to do this](https://www.theguardian.com/science/2012/mar/15/precognition-studies-curse-failed-replications)
 - Pre-registered 
 - Failed to replicate any of the effects
+- See "A Student's Guide to Open Science" Chapter 2
+
+::: fragment
+
+![](images/fortune-teller.jpg)
+:::
 
 ::: notes
 
@@ -102,15 +111,30 @@ So what happened next?
 
 ##  A cautionary tale I: Daryl Bem
 
+::: columns
+:::{.column width="60%"}
+
 - Submitted to original journal (JPSP)
 - Rejected without review - “we do not publish replications”
 - Also rejected without review by Science Brevia & Psychological Science
 - Reviewed at British Journal of Psychology - rejected (Bem was a reviewer)
-- Finally published in PLoS One ([“Failing the Future”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033423)) (open access - cited 152 times)
+- Finally published in PLoS One ([“Failing the Future”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033423) - open access - cited 152 times)
+:::
+
+:::{.column width="40%"}
+
+::: fragment
+![](images/failing_the_future.png)
+:::
+:::
+
+:::
 
 ::: notes
 
 So note that the original has been cited over 800 times - from the previous slide. But are these all uncritical citations?
+
+Also note that the article was criticised heavily on publication, and other researchers also failed to replicate it - see textbook for details. 
 :::
 
 ## Side note - citations?
@@ -137,6 +161,7 @@ NOTE TO SELF: scite is no longer free - should I still recommend it?
 - 130 articles, 24 book chapters
 - Key findings: Messy environments promote stereotyping; meat eaters “more selfish” than vegetarians
 - Students never saw raw data; results “too good to be true”?
+- (Also covered in Chapter 2 of "A Student's Guide to Open Science")
 
 ::: notes
 So here's another cautionary tale for you about a famous social psychologist called Diderick Stapel. 
@@ -151,7 +176,7 @@ But the students never saw the raw data - he kept that very close to his chest a
 :::{.column width="70%"}
 - Eventually, students blew the whistle
 - All the data had been fabricated 
-- At least 50 articles retracted
+- At least 58 articles retracted
 - How did he go unchallenged for so long? 
 - Why did he do it? 
 - Free translation of his book [here](http://nick.brown.free.fr/stapel)! 
@@ -228,11 +253,11 @@ In it, he directs personal attacks at the authors of the paper, calling them “
 ## Questionable research practices (QRPs)
 
 ::: columns
-:::{.column width="60%"}
-![](images/qrps.png){.fragment width="540"}
+:::{.column width="70%"}
+![](images/qrps.png){.fragment width="700"}
 :::
 
-:::{.column width="40%"}
+:::{.column width="30%"}
 - Fig. 1. The nine circles of scientific hell (with apologies to Dante and xkcd). &copy; Association for Psychological Science.
 :::
 :::
@@ -249,7 +274,7 @@ This is from a brief and quite humorous article by the anonymous blogger Neurosk
 ## Neuroskeptic, 2012 
 
 ::: columns
-:::{.column width="50%"}
+:::{.column width="60%"}
 - First Circle: Limbo
 - Second Circle: Overselling
 - Third Circle: Post-Hoc Storytelling
@@ -257,7 +282,7 @@ This is from a brief and quite humorous article by the anonymous blogger Neurosk
 - Fifth Circle: Creative Use of Outliers
 :::
 
-:::{.column width="50%"}
+:::{.column width="40%"}
 - Sixth Circle: Plagiarism
 - Seventh Circle: Non-publication of Data
 - Eighth Circle: Partial Publication of Data
@@ -281,7 +306,7 @@ Non-publication = file drawer
 
 Partial publication - way too common. Have been asked to do it by reviewers myself. 
 
-Inventing data - see Stapel. Also might be more common than we think (if people are good at it we won’t catch them). 
+Inventing data - see Stapel. Also might be more common than we think (if people are good at it we won’t catch them). Also now more common to use AI to fabricate things.  
 :::
 
 ## How common are QRPs? 
@@ -360,10 +385,17 @@ across all fields of research. PLOS ONE, 19(8), e0304342. [https://doi.org/10.13
 
 :::
 
+::: notes
+So the QRPs listed in here are not all the same as those in the John et al. paper, so perhaps it's not really comparable. Still, it's disappointing that things haven't improved more. 
+:::
+
 ## Schneider et al. 2024 - Figure 2
 
 ![](images/Denmark_fig2.png)
 
+::: notes
+This is Figure 2 from the paper. It's a bit hard to read here, but you should be able to refer to the paper to have a look. The Danish sample is in blue, the international one in grey. 
+:::
 
 ## Why are we here? 
 
@@ -415,7 +447,7 @@ across all fields of research. PLOS ONE, 19(8), e0304342. [https://doi.org/10.13
 :::
 
 ::: footer 
-[OPEN SCIENCE COLLABORATION. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716.](https://doi.org/10.1126/science.aac4716)
+Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716.[https://doi.org/10.1126/science.aac4716](https://doi.org/10.1126/science.aac4716)
 
 :::
 
@@ -518,14 +550,14 @@ Comparing effect sizes across indicators, surprisingness of the original effect,
 
 :::
 
-## Many Labs 1 - findings {.smaller}
+## Many Labs 1 - findings 
 
 ::: columns 
-:::{.column width="70%"}
+:::{.column width="65%"}
 ![](images/manylabs1.png){.fragment}
 :::
 
-:::{.column width="30%"}
+:::{.column width="35%"}
 - 13 classic findings; 36 independent samples; 6,344 participants. 
 - Preregistered protocol
 - 10 effects replicated, 1 borderline, 2 didn’t
@@ -538,7 +570,7 @@ Comparing effect sizes across indicators, surprisingness of the original effect,
 
 :::
 
-## Many Labs 2 {.smaller}
+## Many Labs 2
 ### Investigating replicability across sample and setting
 
 - [Many Labs 2](https://cos.io/about/news/28-classic-and-contemporary-psychology-findings-replicated-more-60-laboratories-each-across-three-dozen-nations-and-territories/) - now published in [Advances in Methods & Practices in Psychological Science](https://journals.sagepub.com/doi/10.1177/2515245918810225) (open access)
@@ -554,10 +586,11 @@ Comparing effect sizes across indicators, surprisingness of the original effect,
 
 ## {background-color="white"}
 
-![](images/manylabs2.png){.absolute top=0 right=180 width="750"}
+![](images/manylabs2.png){.absolute top=0 right=280 width="900"}
 
 ::: notes
 
+This is a little tricky to reac but you can see the original effect sizes are the little grey diamonds, and each little bar is an individual lab's result. 
 :::
 
 ## Prediction markets
@@ -568,6 +601,10 @@ Comparing effect sizes across indicators, surprisingness of the original effect,
 - Survey & markets also predicted effect sizes
 - Can you predict which studies will replicate? 
 - [Play the online game and find out!](https://80000hours.org/psychology-replication-quiz/)
+
+::: fragment
+![](images/prediction-markets.jpg)
+:::
 
 ::: notes
 
@@ -582,6 +619,7 @@ Comparing effect sizes across indicators, surprisingness of the original effect,
 - [Many Labs 5](https://journals.sagepub.com/doi/full/10.1177/2515245920958687) - Testing pre-data-collection peer review as an intervention to increase replicability
 - [Many Babies](https://manybabies.github.io/) - [Many Babies 1](https://journals.sagepub.com/doi/10.1177/2515245919900809) now published - projects up to no. 4!
 - [A thoughtful critique](https://www.cos.io/blog/critique-many-labs-projects) of the Many Labs projects by Charlie Ebersole (one of the project leaders). 
+- [Useful summary here](https://news.virginia.edu/content/after-10-years-many-labs-comes-end-its-success-replicable)
 
 ::: notes
 
@@ -591,9 +629,9 @@ In Many Labs 5, this was testing the claim in the Reproducibility project that t
 
 ## A similar approach - the Psych Science Accelerator
 
-- A new initiative, aimed at providing psychological science with much greater power
+- A recent initiative (formed 2017), aimed at providing psychological science with much greater power
 - Website [here](https://psysciacc.org/) - introductory paper [here](https://journals.sagepub.com/doi/10.1177/2515245918797607)
-- Currently 1328 labs representing 84 countries on all 6 populated continents
+- Currently 2468 researchers representing 73 countries on all 6 populated continents
 - New studies and replications; democratically selected
 - Podcast [here](https://everythinghertz.com/78) (note - I get a mention at the start!)
 
@@ -814,7 +852,7 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 :::
 
 
-## Preprints {.smaller}
+## Preprints
 
 - It’s becoming more common to post papers to “preprint servers” before peer review
 - Again, this has been traditional in Physics, Astrophysics and Mathematics for decades ([arXiv](https://arxiv.org/) was founded in 1991). 
@@ -833,6 +871,10 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Currently 19 different "communities" and 2000 recommenders
 - Once reviewed, can publish in [Peer Community Journal](https://peercommunityjournal.org/) (diamond open access) or submit to a [PCI-friendly journal](https://peercommunityin.org/pci-friendly-journals/) as pre-reviewed
 - Could this overtake commercial journals? 
+
+::: fragment
+![](images/pci.png){fig-align="center"}
+:::
 
 ::: notes
 
@@ -908,6 +950,8 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Authors see reviews and reviewers see each others’ reviews; names revealed after publication (Frontiers)
 - Entire process open & reviews published alongside paper (PeerJ)
 - Argument: Junior reviewers will be too intimidated to be honest about senior colleagues’ work?
+- Plus side: Get credit for your time spent reviewing
+- Increased transparency of process
 
 ::: notes
 
@@ -923,6 +967,7 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 - Solution: Incremental review process?
 - Solution: Credit for good reviewers
 - Solution: Borrow from social media e.g. Reddit? 
+- Note: eLife recently transitioned to this model amid some controversy!
 
 ::: notes
 
@@ -931,7 +976,7 @@ Crüwell, S., Apthorp, D., Baker, B. J., Colling, L., Elson, M., Geiger, S. J., 
 ## What you can do 
 
 - If you’re doing Honours next year, consider preregistering your project at OSF (even for this year it’s not too late)
-- Could we do replications in 3rd year? Lobby!
+- Could we do replications in 3rd year? Or even in Honours? Lobby!
 - [Some ideas for participation from OSF](https://www.cos.io/communities/scientists-and-researchers)
 - FORRT (Framework for Open and Reproducible Research Training) - [get involved here](https://forrt.org/about/get-involved/)! 
 
